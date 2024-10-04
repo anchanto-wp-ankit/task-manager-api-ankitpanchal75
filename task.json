@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "title": "Set up environment",
-      "description": "Install Node.js, npm, and git",
-      "completed": true
-    },
-    {
       "id": 2,
       "title": "Create a new project",
       "description": "Create a new project using the Express application generator",
@@ -88,6 +82,123 @@
       "id": 15,
       "title": "Install jsonwebtoken",
       "description": "Install jsonwebtoken",
+      "completed": false
+    },
+    {
+      "id": 17,
+      "title": "ZZZ Task",
+      "description": "This is a test task",
+      "completed": "false"
+    },
+    {
+      "id": 18,
+      "title": "New Task 1",
+      "description": "This is a test task 1",
+      "completed": true
+    },
+    {
+      "id": 19,
+      "title": "New Task 1",
+      "description": "This is a test task 1",
+      "completed": true
+    },
+    {
+      "id": 20,
+      "title": "New Task 1",
+      "description": "This is a test task 1",
+      "completed": true
+    },
+    {
+      "id": 21,
+      "title": "New Task 1",
+      "description": "This is a test task 1",
+      "completed": true
+    },
+    {
+      "id": 22,
+      "title": "New Task 1",
+      "description": "This is a test task 1",
+      "completed": true
+    },
+    {
+      "id": 23,
+      "title": "New Task 1",
+      "description": "This is a test task 1",
+      "completed": true
+    },
+    {
+      "id": 24,
+      "title": "New Task",
+      "description": "New Task Description",
+      "completed": false
+    },
+    {
+      "id": 25,
+      "title": "New Task",
+      "completed": false
+    },
+    {
+      "id": 26,
+      "title": "New Task",
+      "description": "New Task Description",
+      "completed": false
+    },
+    {
+      "id": 27,
+      "title": "New Task 1",
+      "description": "This is a test task 1",
+      "completed": true
+    },
+    {
+      "id": 28,
+      "title": "New Task 1",
+      "description": "This is a test task 1",
+      "completed": true
+    },
+    {
+      "id": 29,
+      "title": "ZXXXXXNew Task 1",
+      "description": "This is a test task 1",
+      "completed": true
+    },
+    {
+      "id": 30,
+      "title": "ZXXXXXNew Task 1",
+      "description": "This is a test task 1",
+      "completed": true
+    },
+    {
+      "id": 31,
+      "title": "ZXXXXXNew Task 1",
+      "description": "This is a test task 1",
+      "completed": true
+    },
+    {
+      "id": 32,
+      "title": "New Task",
+      "description": "New Task Description",
+      "completed": false
+    },
+    {
+      "id": 33,
+      "title": "New Task",
+      "completed": false
+    },
+    {
+      "id": 34,
+      "title": "New Task",
+      "description": "New Task Description",
+      "completed": false
+    },
+    {
+      "id": 35,
+      "title": "New Task",
+      "description": "New Task Description",
+      "completed": false
+    },
+    {
+      "id": 36,
+      "title": "New Task",
       "completed": false
     }
   ]
